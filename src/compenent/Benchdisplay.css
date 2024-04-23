@@ -1,0 +1,133 @@
+.Display {
+    background: rgb(43, 135, 209);
+    font-family: sans-serif, Verdana;
+    width: 100%;
+    height: 502px;
+    text-decoration: none;
+    box-shadow: 0px 3px 4px rgb(77, 77, 77) inset;
+}
+
+.Testbench {
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    padding: 271px 0px 0px 0px;
+
+}
+
+.Measure {
+    font-size: 20px;
+    margin: 20px 0px;
+}
+
+.GetStarted {
+    float: inline-start;
+    width: 6%;
+    font-size: 15px;
+    border-radius: 10px;
+    text-align: center;
+    color: black;
+    padding: 15px 0px 15px 0px;
+    margin: 10px 0px 0px 900px;
+    text-decoration: none;
+    background-color: rgb(255, 209, 84);
+    box-shadow: 0px 3px 4px rgb(77, 77, 77);
+
+}
+
+.image {
+
+    padding: 150px 450px;
+}
+
+.WindowGame {
+    font-family: sans-serif, Verdana;
+    width: 100%;
+    height: 1211px;
+    background: rgb(230, 232, 244);
+}
+
+
+/*Grid button */
+.Grid-Container {
+    display: grid;
+    text-align: center;
+    grid-template-columns: auto auto;
+    margin: -110px 0px;
+
+
+}
+
+/*Reation test*/
+.Reaction {
+    border-radius: 25px;
+    margin: 0px 450px;
+    padding: 200px 0px;
+    width: 472.86px;
+    height: 400.58px;
+    font-size: 32px;
+    background-color: white;
+    box-shadow: 0px 3px 4px rgb(140, 140, 140);
+    float:inline-start;
+    text-decoration: none;
+    color: black;
+}
+
+.TextReaction {
+    margin: 30px 0px;
+    font-size: 20px;
+}
+
+/*Number Test*/
+
+.NumberMem {
+    border-radius: 25px;
+    margin: 0px 0px 0px -645px;
+    padding: 200px 0px;
+    width: 472.86px;
+    height: 400.58px;
+    font-size: 32px;
+    background-color: white;
+    box-shadow: 0px 3px 4px rgb(140, 140, 140);
+    
+}
+
+.Text-NumberMem {
+    margin: 30px 0px;
+    font-size: 20px;
+}
+
+.VerbalMem {
+    border-radius: 25px;
+    margin: 40px 450px;
+    padding: 200px 0px;
+    width: 472.86px;
+    height: 400.58px;
+    font-size: 32px;
+    background-color: white;
+    box-shadow: 0px 3px 4px rgb(140, 140, 140);
+}
+
+.TextVerbal {
+    margin: 30px 0px;
+    font-size: 20px;
+}
+
+.ColorBlind {
+    border-radius: 25px;
+    margin: 40px 0px 0px -645px;
+    padding: 200px 0px;
+    width: 472.86px;
+    height: 400.58px;
+    font-size: 32px;
+    background-color: white;
+    box-shadow: 0px 3px 4px rgb(140, 140, 140);
+    float:inline-start;
+    text-decoration: none;
+    color: black;
+}
+
+.TextColor {
+    margin: 30px 0px;
+    font-size: 20px;
+}

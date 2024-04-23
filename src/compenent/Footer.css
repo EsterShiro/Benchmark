@@ -1,0 +1,92 @@
+.FooterMain {
+    background: rgb(33, 53, 64);
+    font-family: sans-serif, Verdana;
+    width: 100%;
+    height: 557px;
+    padding: 30px 0px;
+
+}
+
+.Grid-Contact {
+    display: grid;
+    text-align: center;
+    grid-template-columns: auto auto;
+}
+
+.Objective {
+    font-size: 18px;
+    color: rgb(146, 140, 140);
+    background-color: white;
+    border-radius: 25px;
+    width: 796px;
+    height: 504px;
+    margin: 0px 0px 0px 100px;
+    padding: 200px 0px 0px 50px;
+    text-align: start;
+}
+
+/*Contact page */
+.Contact {
+    font-size: 24px;
+    background-color: white;
+    border-radius: 25px;
+    width: 796px;
+    height: 504px;
+    text-align: start;
+    padding: 55px 0px 0px 80px;
+}
+
+.Contact-0 {
+    font-weight: 600;
+}
+
+.Contact-1 {
+    font-size: 14px;
+    color: rgb(146, 140, 140);
+    padding: 30px 0px;
+}
+
+.Contact-2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    padding: 20px 75px;
+}
+
+.Contact-3 {
+    color: rgb(146, 140, 140);
+    font-size: 14px;
+    padding: 0px 0px;
+}
+
+/*Bottom-footer*/
+.Bottom-Footer {
+    background-color: white;
+    width: 100%;
+    height: 140px;
+    margin: 30px 0px;
+    font-size: 16px;
+}
+
+.Copy-Right {
+    color: rgb(146, 140, 140);
+    padding: 60px 0px 0px 150px;
+}
+
+.Terms-Conditions {
+    color: rgb(146, 140, 140);
+    margin: -20px 370px;
+    text-align: right;
+}
+
+.Privacy{
+    color: rgb(146, 140, 140);
+    margin: 2px 250px;
+    text-align: right;
+}
+.Cookies{
+    color: rgb(146, 140, 140);
+    margin: -19px 130px;
+    text-align: right;
+}
+
